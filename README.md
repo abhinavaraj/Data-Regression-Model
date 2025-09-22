@@ -1,4 +1,5 @@
-# Data-Regression-ModelDATA-Regression-Model
+# Data-Regression-Model
+
 
 A Python project implementing regression models for predictive data analysis. This project demonstrates how to use various regression techniques to predict outcomes based on input datasets.
 
